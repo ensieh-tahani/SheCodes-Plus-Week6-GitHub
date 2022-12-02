@@ -1,0 +1,25 @@
+h2{
+    color: #3F0071;
+    font-size:20px;
+
+}
+
+.form{
+    color: #0002A1;
+    font-size:20px;
+    padding: 10px;
+    border: 1px solid #FB2576;
+    border-radius: 5px;
+}
+
+.input{
+    border: 1px solid #FB2576;
+    border-radius: 5px;
+    color:#FB2576;
+}
+.button{
+   color: #fff;
+   background:#FB2576;
+   border: 1px solid #0002A1;
+   border-radius: 5px;
+}
